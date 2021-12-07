@@ -1,2 +1,2 @@
 # simon-game
-built with vanilla JS
+built using jQuery
